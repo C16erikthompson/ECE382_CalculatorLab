@@ -3,4 +3,4 @@ ECE382_CalculatorLab
 
 Calculator in assembly
 
-![](https://docs.google.com/file/d/0B2Vmhb1dBjTkTTBEbjZFQ19MUFE/edit)
+![](http://i47.photobucket.com/albums/f189/erik_thompson2/calculatorpseudocode_zps3f3ab06a.jpg?raw=true)
