@@ -87,5 +87,8 @@ ifZero:
 			mov.b	#0x00,		r5			;makes answer zero if multiplied by zero  
 			jmp		linker  
 			
+#Bugs
+- If a function starts with the end operand or with some operation, it will not behave properly
+- If the function put in is not valid, it will continue to run or behave improperly
 #Documentation
 None
