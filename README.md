@@ -3,4 +3,4 @@ ECE382_CalculatorLab
 
 Calculator in assembly
 
-![](https://drive.google.com/?tab=wo&authuser=0#my-drive?raw=true)
+![](https://docs.google.com/file/d/0B2Vmhb1dBjTkTTBEbjZFQ19MUFE/edit?raw=true)
